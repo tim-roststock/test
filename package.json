@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/tim-roststock/test.git"
   },
-  "author": "Tim Roststock",
+  "author": "Tim Roststock <tim.roststock@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tim-roststock/test/issues"
@@ -23,6 +23,8 @@
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-contrib-nodeunit": "~0.4.1",
     "grunt-contrib-uglify": "~0.5.0",
-    "grunt-contrib-watch": "~0.6.1"
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-mocha-test": "^0.11.0",
+    "mocha": "^1.21.4"
   }
 }
