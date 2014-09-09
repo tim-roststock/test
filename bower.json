@@ -1,0 +1,19 @@
+{
+  "name": "test-project",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tim-roststock/test",
+  "description": "its just a test",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.15",
+    "jquery": "~2.1.1"
+  }
+}
